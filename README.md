@@ -1,2 +1,126 @@
-<div align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,40:5B21B6,75:9D4EDD,100:00F5D4&height=230&section=header&text=Zain%20Saeed%20Mughal&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Flutter%20Specialist%20%E2%80%A2%20UI%2FUX&descAlignY=57&descSize=17&animation=twinkling%22 width="100%" alt="header"/>   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=C77DFF&center=true&vCenter=true&width=700&lines=6%2B+live+products+shipped+at+Balitech;Flutter+%2B+BLoC+apps+that+feel+native;Next.js%2C+React+and+Node+on+real+servers;Design+in+Figma.+Build+it.+Deploy+it.%22 alt="typing"/>   <br/><br/>   <a href="https://www.linkedin.com/in/zain-saeed-mughal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>   <a href="mailto:zainsaeedmughal4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>   <a href="https://goconnectivo.com"><img src="https://img.shields.io/badge/Live_Work-goconnectivo.com-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live"/></a>   <img src="https://komarev.com/ghpvc/?username=zain-saeed-mughal&style=for-the-badge&color=9D4EDD&label=Profile+Views%22 alt="views"/> </div> <br/> <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave"/> Hey, I'm Zain</h2> <p> Final year BSCS student at <b>Iqra University, Islamabad</b> and <b>Full Stack Developer at Balitech</b>. I own products end to end: requirements, UI, frontend, backend, database, and the production server it all runs on. </p> <table>   <tr>     <td width="50%" valign="top">       <h3>⚡ Quick facts</h3>       <ul>         <li>🚀 <b>6+ live products</b> shipped at Balitech</li>         <li>🔐 Built a <b>4 role approval system</b> with realtime push</li>         <li>🖥️ Deploy my own apps on <b>servers and VMs</b></li>         <li>🎨 Ex graphic designer, so the UI actually slaps</li>         <li>💬 Ask me about <b>Flutter architecture</b> or <b>Next.js</b></li>       </ul>     </td>     <td width="50%" valign="top">       <h3>🧬 In code</h3> <pre lang="dart"> class Zain extends Developer {   final city = "Islamabad";   final role = "Full Stack @ Balitech";   final shipped = 6;   final stack = [     "Flutter", "Next.js",     "Node.js", "Supabase",   ];   String get motto =>     "Design it. Build it. Ship it."; } </pre>     </td>   </tr> </table> <h2>🛠️ Tech Arsenal</h2> <div align="center">   <p><b>📱 Mobile</b></p>   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase&theme=dark" alt="mobile"/>   <p><b>🌐 Web and Backend</b></p>   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,py,html,css&theme=dark" alt="web"/>   <p><b>🗄️ Data and DevOps</b></p>   <img src="https://skillicons.dev/icons?i=mongodb,supabase,git,github,linux,postman,vscode&theme=dark" alt="data"/>   <p><b>🎨 Design</b></p>   <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="design"/> </div> <h2>🚀 Things I've Shipped</h2> <table>   <tr>     <td width="50%" valign="top">       <h3>🌐 Go Connectivo</h3>       <p>Live VoIP business website. Still running, still bringing in clients.</p>       <a href="https://goconnectivo.com"><img src="https://img.shields.io/badge/LIVE-goconnectivo.com-00F5D4?style=flat-square&logo=googlechrome&logoColor=black" alt="live"/></a>       <img src="https://img.shields.io/badge/Production-5B21B6?style=flat-square" alt="prod"/>     </td>     <td width="50%" valign="top">       <h3>💸 Petty Cash</h3>       <p>Flutter app that replaced a paper process. 4 role based admin panels, finance approvals, realtime push to the requester.</p>       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="flutter"/>       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="firebase"/>     </td>   </tr>   <tr>     <td width="50%" valign="top">       <h3>🏢 HRMS</h3>       <p>Complete HR, finance and attendance system. Used company wide, every single day.</p>       <img src="https://img.shields.io/badge/Full_Stack-5B21B6?style=flat-square" alt="fullstack"/>       <img src="https://img.shields.io/badge/Dashboards-9D4EDD?style=flat-square" alt="dash"/>     </td>     <td width="50%" valign="top">       <h3>🤝 Client Desk</h3>       <p>Production ready platform connecting freelancers with clients for project collaboration.</p>       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="node"/>       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="mongo"/>     </td>   </tr>   <tr>     <td width="50%" valign="top">       <h3>🛒 Stride</h3>       <p>Fully functional e-commerce website, product browsing to checkout.</p>       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react"/>     </td>     <td width="50%" valign="top">       <h3>🧱 Builder Bricks</h3>       <p>Real estate frontend showcasing property listings for a builder business.</p>       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="next"/>     </td>   </tr>   <tr>     <td colspan="2" valign="top" align="center">       <h3>🧠 Agent Quiz App</h3>       <p>Internal quiz platform for company agents, built from scratch and deployed to production.</p>     </td>   </tr> </table> <h2>💼 Journey</h2> <table>   <tr><th>When</th><th>Role</th><th>Where</th></tr>   <tr><td><b>2026, Present</b></td><td>🟣 Full Stack Developer</td><td>Balitech, Islamabad</td></tr>   <tr><td><b>2026</b></td><td>🟢 Full Stack Web Dev (Govt. Certified)</td><td>NAVTTC</td></tr>   <tr><td><b>2024 to 2025</b></td><td>🔵 Flutter Developer Intern</td><td>Rapidevsol, Rawalpindi</td></tr>   <tr><td><b>2023</b></td><td>🟠 Graphic Design Intern</td><td>URAAN</td></tr> </table> <h2>📊 GitHub Analytics</h2> <div align="center">   <img height="170" src="https://github-readme-stats.vercel.app/api?username=zain-saeed-mughal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=C77DFF&icon_color=00F5D4&text_color=E6E6E6%22 alt="stats"/>   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-saeed-mughal&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=C77DFF&text_color=E6E6E6%22 alt="langs"/>   <br/>   <img src="https://streak-stats.demolab.com?user=zain-saeed-mughal&hide_border=true&background=0D1117&ring=9D4EDD&fire=00F5D4&currStreakLabel=C77DFF&sideLabels=C77DFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E%22 width="60%" alt="streak"/>   <br/>   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zain-saeed-mughal&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=00F5D4&area=true&area_color=5B21B6&hide_border=true%22 width="100%" alt="activity"/> </div> <h2>🎯 Right Now</h2> <ul>   <li>🎓 Wrapping up the final semester of BSCS</li>   <li>🏗️ Shipping more production apps at Balitech</li>   <li>📈 Going deeper on backend architecture and Next.js</li>   <li>🤝 Open to freelance, collabs and full time roles</li> </ul> <div align="center">   <br/>   <b>Need something designed, built and deployed by one person who actually finishes things? Hit me up.</b>   <br/><br/>   <a href="mailto:zainsaeedmughal4@gmail.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=420&lines=zainsaeedmughal4%40gmail.com;Let%27s+build+something+real%22 alt="contact"/></a>   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,30:9D4EDD,65:5B21B6,100:0F0C29&height=120&section=footer&animation=twinkling%22 width="100%" alt="footer"/> </div>
- 
+<div align="center">
+  <img src="./header.svg" width="100%" alt="Zain Saeed Mughal"/>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/zain-saeed-mughal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:zainsaeedmughal4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://goconnectivo.com"><img src="https://img.shields.io/badge/Live_Work-goconnectivo.com-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live"/></a>
+</div>
+
+<br/>
+
+<h2>👋 Hey, I'm Zain</h2>
+
+<p>
+Final year BSCS student at <b>Iqra University, Islamabad</b> and <b>Full Stack Developer at Balitech</b>.
+I own products end to end: requirements, UI, frontend, backend, database, and the production server it all runs on.
+</p>
+
+<ul>
+  <li>🚀 <b>6+ live products</b> shipped at Balitech</li>
+  <li>🔐 Built a <b>4 role approval system</b> with realtime push notifications</li>
+  <li>🖥️ Deploy and manage my own apps on <b>production servers and VMs</b></li>
+  <li>🎨 Ex graphic designer, so the UI actually looks good</li>
+  <li>💬 Ask me about <b>Flutter architecture</b>, <b>Next.js</b> or shipping fast</li>
+</ul>
+
+```dart
+class Zain extends Developer {
+  final city = "Islamabad";
+  final role = "Full Stack Developer @ Balitech";
+  final shipped = 6;
+  final mobile = ["Flutter", "Dart", "BLoC", "Provider", "Firebase"];
+  final web = ["Next.js", "React", "Node.js", "Express", "TypeScript"];
+  final data = ["MongoDB", "Supabase", "Firebase"];
+
+  String get motto => "Design it. Build it. Ship it.";
+}
+```
+
+<h2>🛠️ Tech Arsenal</h2>
+
+<div align="center">
+  <p><b>📱 Mobile</b></p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase&theme=dark" alt="mobile"/>
+  <p><b>🌐 Web and Backend</b></p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,py,html,css&theme=dark" alt="web"/>
+  <p><b>🗄️ Data and DevOps</b></p>
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,git,github,linux,postman,vscode&theme=dark" alt="data"/>
+  <p><b>🎨 Design</b></p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="design"/>
+</div>
+
+<h2>🚀 Things I've Shipped</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Go Connectivo</h3>
+      <p>Live VoIP business website. Still running, still bringing in clients.</p>
+      <a href="https://goconnectivo.com"><img src="https://img.shields.io/badge/LIVE-goconnectivo.com-00F5D4?style=flat-square&logo=googlechrome&logoColor=black" alt="live"/></a>
+      <img src="https://img.shields.io/badge/Production-5B21B6?style=flat-square" alt="prod"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💸 Petty Cash</h3>
+      <p>Flutter app that replaced a paper process. 4 role based admin panels, finance approvals, realtime push to the requester.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="flutter"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="firebase"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 HRMS</h3>
+      <p>Complete HR, finance and attendance system. Used company wide, every single day.</p>
+      <img src="https://img.shields.io/badge/Full_Stack-5B21B6?style=flat-square" alt="fullstack"/>
+      <img src="https://img.shields.io/badge/Dashboards-9D4EDD?style=flat-square" alt="dash"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 Client Desk</h3>
+      <p>Production ready platform connecting freelancers with clients for project collaboration.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="node"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="mongo"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 Stride</h3>
+      <p>Fully functional e-commerce website, product browsing to checkout.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧱 Builder Bricks</h3>
+      <p>Real estate frontend showcasing property listings for a builder business.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="next"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <h3>🧠 Agent Quiz App</h3>
+      <p>Internal quiz platform for company agents, built from scratch and deployed to production.</p>
+    </td>
+  </tr>
+</table>
+
+<h2>💼 Journey</h2>
+
+<table>
+  <tr><th>When</th><th>Role</th><th>Where</th></tr>
+  <tr><td><b>2026, Present</b></td><td>🟣 Full Stack Developer</td><td>Balitech, Islamabad</td></tr>
+  <tr><td><b>2026</b></td><td>🟢 Full Stack Web Dev (Govt. Certified)</td><td>NAVTTC</td></tr>
+  <tr><td><b>2024 to 2025</b></td><td>🔵 Flutter Developer Intern</td><td>Rapidevsol, Rawalpindi</td></tr>
+  <tr><td><b>2023</b></td><td>🟠 Graphic Design Intern</td><td>URAAN</td></tr>
+</table>
+
+<h2>🎯 Right Now</h2>
+
+<ul>
+  <li>🎓 Wrapping up the final semester of BSCS</li>
+  <li>🏗️ Shipping more production apps at Balitech</li>
+  <li>📈 Going deeper on backend architecture and Next.js</li>
+  <li>🤝 Open to freelance, collabs and full time roles</li>
+</ul>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:zainsaeedmughal4@gmail.com"><img src="./footer.svg" width="100%" alt="Let's build something real"/></a>
+</div>

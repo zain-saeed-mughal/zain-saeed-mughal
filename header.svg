@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F0C29"/>
+      <stop offset="55%" stop-color="#2A1260"/>
+      <stop offset="100%" stop-color="#4C1D95"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#C77DFF"/>
+      <stop offset="40%" stop-color="#FFFFFF"/>
+      <stop offset="60%" stop-color="#00F5D4"/>
+      <stop offset="100%" stop-color="#C77DFF"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#9D4EDD"/>
+      <stop offset="100%" stop-color="#00F5D4"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F5D4"/>
+      <stop offset="100%" stop-color="#5B21B6"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .name{font:800 64px "Segoe UI",Ubuntu,"Helvetica Neue",Arial,sans-serif;opacity:0;animation:rise 1.2s ease-out .2s forwards}
+    .sub{font:600 19px "Segoe UI",Ubuntu,Arial,sans-serif;letter-spacing:4px;fill:#E4D6FF;opacity:0;animation:rise 1.2s ease-out .8s forwards}
+    .l{font:700 22px Consolas,"Courier New",monospace;fill:#00F5D4;opacity:0;animation:cyc 12s steps(1,end) 1.6s infinite,type 12s steps(34,end) 1.6s infinite}
+    .l2{animation-delay:4.6s,4.6s}
+    .l3{animation-delay:7.6s,7.6s}
+    .l4{animation-delay:10.6s,10.6s}
+    .star{fill:#fff;animation:tw 3s ease-in-out infinite}
+    .s2{animation-delay:1s}.s3{animation-delay:2s}
+    @keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes cyc{0%{opacity:1}25%{opacity:0}100%{opacity:0}}
+    @keyframes type{0%{clip-path:inset(0 100% 0 0)}14%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 0 0 0)}}
+    @keyframes tw{0%,100%{opacity:.15}50%{opacity:.9}}
+  </style>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <circle class="star" cx="90" cy="50" r="2"/>
+  <circle class="star s2" cx="230" cy="110" r="1.5"/>
+  <circle class="star s3" cx="380" cy="40" r="2"/>
+  <circle class="star" cx="820" cy="60" r="1.5"/>
+  <circle class="star s2" cx="960" cy="35" r="2"/>
+  <circle class="star s3" cx="1100" cy="100" r="1.5"/>
+  <circle class="star s3" cx="160" cy="190" r="1.5"/>
+  <circle class="star" cx="1040" cy="200" r="2"/>
+
+  <text class="name" x="600" y="120" text-anchor="middle" fill="url(#shine)">Zain Saeed Mughal</text>
+  <text class="sub" x="600" y="162" text-anchor="middle">FULL STACK DEVELOPER  •  FLUTTER SPECIALIST  •  UI/UX</text>
+
+  <text class="l" x="600" y="210" text-anchor="middle">&gt; 6+ live products shipped at Balitech</text>
+  <text class="l l2" x="600" y="210" text-anchor="middle">&gt; Flutter + BLoC apps that feel native</text>
+  <text class="l l3" x="600" y="210" text-anchor="middle">&gt; Next.js, React and Node on real servers</text>
+  <text class="l l4" x="600" y="210" text-anchor="middle">&gt; Design it. Build it. Ship it.</text>
+
+  <g opacity="0.55">
+    <path fill="url(#w2)" d="M0 268 Q150 238 300 268 T600 268 T900 268 T1200 268 T1500 268 T1800 268 T2100 268 T2400 268 V320 H0 Z">
+      <animateTransform attributeName="transform" type="translate" values="-600 0;0 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g opacity="0.9">
+    <path fill="url(#w1)" d="M0 284 Q150 260 300 284 T600 284 T900 284 T1200 284 T1500 284 T1800 284 T2100 284 T2400 284 V320 H0 Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-600 0" dur="6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
